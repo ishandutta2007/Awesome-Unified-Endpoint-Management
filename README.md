@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-intune)**  
-
-  Cloud-native UEM platform tightly integrated with Microsoft 365, Entra ID, and Defender for managing Windows, macOS, iOS, Android, and more with strong policy, app, and security controls.
-
-
-
-- **[VMware Workspace ONE (Omnissa)](https://www.omnissa.com/)**  
-
-  Comprehensive UEM solution for managing devices, applications, and access across diverse platforms with robust identity, compliance, and digital workspace features.
-
-
-
-- **[Ivanti Neurons](https://www.ivanti.com/)**  
-
-  AI-powered UEM platform focused on unified management of endpoints, automation, patching, and security for complex, multi-OS enterprise environments.
-
-
-
-- **[IBM MaaS360](https://www.ibm.com/products/maas360)**  
-
-  AI-enhanced UEM solution supporting a wide range of devices with strong security, compliance, and industry-specific capabilities.
-
-
-
-- **[Hexnode](https://www.hexnode.com/)**  
-
-  Modern UEM platform offering device management, kiosk mode, app management, and security features for Windows, macOS, iOS, Android, and more.
-
-
-
-- **[Scalefusion](https://scalefusion.com/)**  
-
-  Unified endpoint management solution strong in multi-platform support, kiosk deployments, content management, and remote troubleshooting.
-
-
-
-- **[SOTI](https://www.soti.net/)**  
-
-  Enterprise mobility and UEM platform specializing in rugged devices, IoT, and advanced mobile device management capabilities.
-
-
-
-- **[ManageEngine Endpoint Central](https://www.manageengine.com/products/desktop-central/)**  
-
-  On-premises and cloud UEM solution covering patch management, software deployment, remote control, and endpoint security for Windows, macOS, and Linux.
-
-
-
-- **[Jamf](https://www.jamf.com/)**  
-
-  Leading Apple-focused device management platform (Jamf Pro, Jamf Now) for macOS, iOS, iPadOS, and tvOS with deep integration into Apple ecosystems.
-
-
-
-- **[Kandji](https://www.kandji.io/)**  
-
-  Modern, Apple-centric MDM/UEM platform emphasizing automation, compliance blueprints, and streamlined management for Mac and iOS fleets.
+| Product | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Microsoft Intune](https://www.microsoft.com/en-us/security/business/microsoft-intune)** | Cloud-native UEM platform tightly integrated with Microsoft 365, Entra ID, and Defender for managing Windows, macOS, iOS, Android, and Linux. | Starts at **$8.00/user/month** (Intune Plan 1, billed annually) | No permanent free tier; **30-day free trial** with up to **25 user licenses** |
+| **[VMware Workspace ONE (Omnissa)](https://www.omnissa.com/)** | Comprehensive UEM solution for managing devices, applications, and access across diverse platforms with robust identity, compliance, and digital workspace features. | Starts at **~$3.78 – $5.00/device/month** (Mobile / UEM Essentials tier) | No permanent free tier; **30-day free trial** (up to **100 devices** via sales/partner evaluation) |
+| **[Ivanti Neurons](https://www.ivanti.com/)** | AI-powered UEM platform focused on unified management of endpoints, automation, patching, and security for complex, multi-OS enterprise environments. | Starts at **~$7.50/device/month** (~$90/device/year or ~$25–$59/user/year) | No permanent free tier; **30-day evaluation / Proof-of-Concept (POC)** environment upon sales request |
+| **[IBM MaaS360](https://www.ibm.com/products/maas360)** | AI-enhanced UEM solution supporting a wide range of devices with strong security, compliance, and industry-specific capabilities. | Starts at **$4.00/device/month** (Essentials Edition; Fast Start promos from $1.50/device/month) | No permanent free tier; **30-day free trial** with full feature access and unlimited test device enrollment |
+| **[Hexnode](https://www.hexnode.com/)** | Modern UEM platform offering device management, kiosk mode, app management, and security features for Windows, macOS, iOS, Android, and more. | Starts at **$2.00/device/month** (Pro plan, billed annually; 15-device minimum) | No permanent free tier; **14-day free trial** with full Ultra tier features and **unlimited devices** (no credit card required) |
+| **[Scalefusion](https://scalefusion.com/)** | Unified endpoint management solution strong in multi-platform support, kiosk deployments, content management, and remote troubleshooting. | Starts at **$2.00/device/month** (Essentials plan, billed annually; 10-device minimum) | No permanent free tier; **14-day free trial** with full Enterprise features and **unlimited devices** (no credit card required) |
+| **[SOTI](https://www.soti.net/)** | Enterprise mobility and UEM platform specializing in rugged devices, IoT, and advanced mobile device management capabilities. | Starts at **~$4.00/device/month** (Cloud entry tier) | No permanent free tier; **30-day free trial** with full platform capabilities |
+| **[ManageEngine Endpoint Central](https://www.manageengine.com/products/desktop-central/)** | On-premises and cloud UEM solution covering patch management, software deployment, remote control, and endpoint security for Windows, macOS, and Linux. | Starts at **~$795/year for 50 endpoints** (~$1.33/endpoint/month) | **Free forever plan** for up to **25 computers and 25 mobile devices**; also offers a **30-day fully functional free trial** |
+| **[Jamf](https://www.jamf.com/)** | Leading Apple-focused device management platform (Jamf Pro, Jamf Now) for macOS, iOS, iPadOS, and tvOS with deep integration into Apple ecosystems. | Jamf Now starts at **$4.00/device/month**; Jamf Pro starts at **$5.75/mobile & $12.50/Mac/month** (25-device min) | **Free forever plan** on Jamf Now for up to **3 devices**; Jamf Pro offers a **14-day to 30-day free trial** via sales request |
+| **[Kandji](https://www.kandji.io/)** | Modern, Apple-centric MDM/UEM platform emphasizing automation, compliance blueprints, and streamlined management for Mac and iOS fleets. | Starts at **~$3.20 – $4.00/device/month** (Core Apple MDM starting tier) | No permanent free tier; **14-day free trial** for core MDM/UEM features (no credit card required) |
 
 
 
